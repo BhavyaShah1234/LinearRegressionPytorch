@@ -6,4 +6,4 @@ One can define the number of rows in the dataset, predictor variables and target
 X(Independent/Predictor Variable) is of shape (rows, cols_x).
 Y(Dependent/Target Variable) is of shape(rows, cols_y).
 
-By uncommenting the <code><h2>print(w1)</h2></code> and <code><h2>print(b1, end='\n\n')</h2></code> lines of the code, we can get initial and updated weights and biases.
+By uncommenting the <h2><code>print(w1)</code></h2> and <h2><code>print(b1, end='\n\n')</code></h2> lines of the code, we can get initial and updated weights and biases.
